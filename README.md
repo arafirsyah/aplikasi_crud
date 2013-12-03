@@ -1,4 +1,4 @@
-aplikasi_cuti
+aplikasi_crud
 =============
 
-aplikasi sistem informasi cuti karyawan
+aplikasi crud
